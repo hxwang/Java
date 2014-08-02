@@ -1,3 +1,6 @@
+Exception
+=========
+
 
 - Why
 	- A procedure often makes sense only for arguments in a subset of its domain
