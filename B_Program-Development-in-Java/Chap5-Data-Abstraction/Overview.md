@@ -14,4 +14,6 @@ Data Abstraction
 		``` java
 		data abstraction = <objects, operations>
 		```
+- Note
+	- An immutable abstraction can have a mutable rep, however, an observers can modify the rep, provided these modifications are "benevolent"(i.e., not visible to users).
 	
