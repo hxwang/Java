@@ -4,4 +4,4 @@
 
 | Book | Author| Status|
 |:----|:-----|:-----|
-|[Effective Java]()| *Joshua Block*| 2/5/2015-|
+|[Effective Java](./Effective-Java)| *Joshua Block*| 2/5/2015-|
